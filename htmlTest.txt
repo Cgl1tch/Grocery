@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+		   <title>A Test</title>
+		</head>
+		<body>
+		   <h1>Is this fine?</h1>
+		   <p>Some words here</p>
+		</body>
+	</html>
